@@ -5,7 +5,7 @@ import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
 /* 
- * @title TokenSale
+ * @title TokenSale - MeowlPad
  * @MeowlTeam A contract for conducting token sales and managing fundraising activities.
  */
 
